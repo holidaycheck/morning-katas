@@ -11,7 +11,7 @@ taken from [this post][tennis-game-easy]
 - A game is won by the first player to have won at least four points in total and at least two points more than the opponent.
 
 ## Rules
-1. Code without tests simply doesn’t exist
+1. Code without tests simply doesn’t exist.
 2. Come Without Your Relics. Do it right now, explain it to us.
 3. We can learn from other people’s mistakes as well as from our own if we listen carefully.
 4. Slow down. You cannot go faster and learn at the same time.
@@ -24,8 +24,8 @@ http://www.cyber-dojo.org
 http://tddbin.com - just JavaScript (incl. ES8)
 
 ## Week 2
-1. TDD Basics, Arrange, Act, Assert
-2. Ping Pong, give the keyboard to the partner once a new test is red
+1. TDD Basics, Arrange, Act, Assert, get familiar with the task, write the first tests and just get rolling.
+2. Ping Pong, give the keyboard to the partner once a new test is red, don't keep the keyboard for longer than 3min, if you didn't get to green and write a new red test in that time, rethink and try to make it simpler, it was probably too complex.
 3. TBD
 4. TBD
 5. TBD
