@@ -29,10 +29,11 @@ The days:
 
 1. TDD Basics, Arrange, Act, Assert, get familiar with the task, write the first tests and just get rolling.
 2. Ping Pong, give the keyboard to the partner once a new test is red, don't keep the keyboard for longer than 3min, if you didn't get to green and write a new red test in that time, rethink and try to make it simpler, it was probably too complex.
-3. TBD
+3. Work in pairs. Write the code so that it does NOT use any return statements. Think different. It might get ugly and uncomfortable, that's ok. It underlines the importance of functions returning things. [Read more.][no-returns].
 4. TBD
 5. TBD
 
 [codingdojohandbook]: https://leanpub.com/codingdojohandbook
 [tennis-scoring]: https://en.wikipedia.org/wiki/Tennis_scoring_system#Game_score
 [tennis-game-easy]: https://technologyconversations.com/2014/04/23/java-tutorial-through-katas-tennis-game-easy/
+[no-returns]: https://ramonanger.wordpress.com/tag/coderetreat/
