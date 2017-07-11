@@ -24,6 +24,9 @@ http://www.cyber-dojo.org
 http://tddbin.com - just JavaScript (incl. ES8)
 
 ## Week 2
+
+The days:
+
 1. TDD Basics, Arrange, Act, Assert, get familiar with the task, write the first tests and just get rolling.
 2. Ping Pong, give the keyboard to the partner once a new test is red, don't keep the keyboard for longer than 3min, if you didn't get to green and write a new red test in that time, rethink and try to make it simpler, it was probably too complex.
 3. TBD
